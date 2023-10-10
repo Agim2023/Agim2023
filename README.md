@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Agim2023](https://github.com/Agim2023)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **justinagim@gmail.com**
 
