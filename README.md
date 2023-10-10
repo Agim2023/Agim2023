@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Justin Agim</h1>
+<h1 align="center">Hi 👋, My name is Justin Agim</h1>
 <h3 align="center">A passionate full stack developer from Nashville, TN. Becoming a software developer has always been a goal of mine due to the elevation of technology and the impact it has on society in today's generation. I am so intrigued with the behind the scenes process of software development, specifically skills like HTML, CSS, and JavaScript. I feel like understanding its purpose and languages is truly amazing. Also, being around your peers in the tech world under one foundation is so motivating and inspiring. In past experiences, I will learn how to access files online and go on companies websites to submit them. This skill will allow me to start my journey into learning more about the tech world.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Agim2023](https://github.com/Agim2023)
